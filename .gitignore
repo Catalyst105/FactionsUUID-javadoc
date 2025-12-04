@@ -5,6 +5,9 @@
 /paper/build/
 /example-plugin/build/
 
+# VSCode
+.vscode
+
 # Eclipse stuff
 .classpath
 .project
