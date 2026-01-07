@@ -2,7 +2,7 @@
 <b>JavaDoc Only Repo</b>
 </center>
 
-# [Visit JavaDoc here !](https://catalyst105.github.io/FactionsUUID-JavaDoc/)
+# [Visit JavaDoc here !](https://catalyst105.github.io/FactionsUUID-javadoc/)
 
 This is a forked repository of the original [FactionsUUID](https://github.com/FactionsU/UID) only for the purpose of creating and uploading FactionsUUID's javaDoc
 
